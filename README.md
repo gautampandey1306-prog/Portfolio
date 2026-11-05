@@ -16,4 +16,4 @@ Then go to http://localhost:8080.
 
 ## Live site
 
-https://gautampandey1306-prog.github.io/Portfolio/ (GitHub Pages, published from `main`).
+https://gautampandey.com/ (GitHub Pages, published from `main`; also at gautampandey1306-prog.github.io/Portfolio, which redirects here).
