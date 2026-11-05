@@ -1,0 +1,11 @@
+# Local preview settings
+.claude/
+
+# Source files kept locally (the site uses the copies in assets/)
+GKP (2).jpeg
+Gautam Kumar Pandey.pdf
+
+# OS clutter
+Thumbs.db
+Desktop.ini
+.DS_Store
